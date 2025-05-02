@@ -1,5 +1,4 @@
 # Ex - 04 
-# DATE : 28/08/24
 # Find the GCD of two numbers :
 
 ## AIM :
@@ -22,8 +21,8 @@ To write a program to find the GCD of two numbers using function.
 
 ```
 Program to find the gcd of two number using function.
-Developed by: Aankarsh J
-RegisterNumber: 22304386
+Developed by: Aathi sakthi s
+RegisterNumber: 212223223001
 def gcd():  
     number1,number2=int(input()),int(input())  
     if number1>number2:   
@@ -37,7 +36,8 @@ def gcd():
 
 ```
 ## Output :
-![Ex - 4 (Image)](https://github.com/user-attachments/assets/0d8c1f1a-0ccb-4a42-9eb9-06bf7bc727d4)
+![image](https://github.com/user-attachments/assets/e668c9e2-5538-4d07-917a-fa2a3a6604ff)
+
 
 ## Result :
 
